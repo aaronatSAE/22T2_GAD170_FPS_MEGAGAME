@@ -18,10 +18,11 @@ During the jam, you'll explore Unity’s FPS Microgame template project and see 
 ## 💟 Your Task 💟
 
 Each group member is to implement each of the following into/throughout one of the game's levels:
-* A modified enemy variant
-* A modified pickup variant
-* A modified weapon variant
-* A new level, populated with variants made by you and your group members
+* A modified **enemy** variant
+* A modified **pickup** variant
+* A modified **weapon** variant
+* Some other **game feature**
+* A new **level**, populated with variants made by you and your group members
 
 For each of your variants, you are to go through CONCEPT, DEVELOP, and IMPLEMENT phases. Share screenshots of each stage as you go.
 
