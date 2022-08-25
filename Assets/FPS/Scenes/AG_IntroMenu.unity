@@ -979,7 +979,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "ChesterRocela, OwenLomax, RachSae, SamGman1, thomasbrayd, Namelessguy653,
-    SamanthaMurphy123, SashaSAE, 1027774sae, \ntruonganvo, Tomas Dennett"
+    SamanthaMurphy123, SashaSAE, 1027774sae, \ntruonganvo"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 75063828274bdb145a55f6dd2f22e8b2, type: 2}
   m_sharedMaterial: {fileID: 21098970014090698, guid: 75063828274bdb145a55f6dd2f22e8b2,
@@ -1904,7 +1904,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: A collaborative student modification of Unity's FPS Microgame template
+  m_text: 'A collaborative student modification
+
+    using Unity''s FPS Microgame
+    template'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 75063828274bdb145a55f6dd2f22e8b2, type: 2}
   m_sharedMaterial: {fileID: 21098970014090698, guid: 75063828274bdb145a55f6dd2f22e8b2,
@@ -1933,7 +1936,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 28.8
+  m_fontSize: 28.05
   m_fontSizeBase: 72
   m_fontWeight: 400
   m_enableAutoSizing: 1
